@@ -1,0 +1,15 @@
+List of Libraries:
+	Python Kernel: 3.11.5 		
+ pandas as pd (V==2.0.3)
+ numpy as np (V==1.24.3)
+ matplotlib.pyplot as plt (V==3.7.2)
+ matplotlib.colors as mcolors (V==3.7.2)
+ seaborn as sns (V==0.12.2)
+ ast
+ re
+ pickle
+from textblob import TextBlob (V==0.20.0)
+scikit-learn (V==1.3.0)
+
+
+    
