@@ -1,3 +1,6 @@
+GitHub link: 
+https://github.com/BarelAndArad/python-ml-project
+
 List of Libraries:
 	Python Kernel: 3.11.5 		
  pandas as pd (V==2.0.3)
